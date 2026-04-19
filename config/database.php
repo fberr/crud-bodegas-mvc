@@ -18,10 +18,10 @@ class Database {
     private static $dbname = 'prueba_tecnica';
 
     /** @var string Usuario de conexión */
-    private static $user = 'felipeberrios';
+    private static $user = 'usuario';
 
     /** @var string Contraseña del usuario */
-    private static $password = '';
+    private static $password = 'password';
 
     /**
      * Establece y retorna una conexión a la base de datos.
