@@ -1,0 +1,8 @@
+
+# Sistema
+.DS_Store
+*.log
+
+# IDE
+.vscode/
+.idea/
